@@ -3,7 +3,12 @@
 ///
 
 
-mod hello_world;
-mod basic;//hello world
+// the basic stuff like hello world,read int from console ...... etc
+mod basic;
+mod var;
+
+
+
+
 
 
