@@ -1,2 +1,3 @@
 mod ownership;
-mod strust;
+mod r#struct;
+mod generics;
