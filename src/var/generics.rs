@@ -2,7 +2,7 @@ use std::fmt::{Display};
 
 struct Weight<T>{
     size:T, // i8 i32 d32 d64 ...... etc
-    measurement:String
+    measurement:String // g,kg ...... etc
 }
 
 struct Animal<T>{
